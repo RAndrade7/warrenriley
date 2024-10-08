@@ -1,0 +1,19 @@
+[gd_scene load_steps=4 format=3 uid="uid://lsm2fmgiycjs"]
+
+[ext_resource type="Script" path="res://starr_kwok.gd" id="1_67vjk"]
+[ext_resource type="Texture2D" uid="uid://v3h7y7sshwqe" path="res://assets/star.png" id="1_j3m18"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_7j5gm"]
+radius = 101.079
+
+[node name="STARR Kwok" type="Area2D"]
+script = ExtResource("1_67vjk")
+
+[node name="Star" type="Sprite2D" parent="."]
+position = Vector2(456, 286.75)
+scale = Vector2(0.182609, 0.1621)
+texture = ExtResource("1_j3m18")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Star"]
+position = Vector2(0, 6)
+shape = SubResource("CircleShape2D_7j5gm")
