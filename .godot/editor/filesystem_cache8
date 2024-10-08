@@ -1,0 +1,15 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1728406318
+charca.gd::GDScript::-1::1728406296::0::1::::<>CharacterBody2D<>::
+charca.tscn::PackedScene::8398170030534721111::1728406296::0::1::::<><>::res://charca.gd
+icon.svg::CompressedTexture2D::9121717526831792873::1728406296::1728406319::1::::<><>::
+main.gd::GDScript::-1::1728406296::0::1::::<>Node2D<>::
+main.tscn::PackedScene::9018168510706080968::1728406296::0::1::::<><>::res://main.gd<>uid://drwevsh0e8tgx::::res://charca.tscn<>uid://duam0pmdogrpa::::res://assets/Block.png<>uid://lsm2fmgiycjs::::res://starr_kwok.tscn
+starr_kwok.gd::GDScript::-1::1728406296::0::1::::<>Area2D<>::
+starr_kwok.tscn::PackedScene::810013181378714828::1728406296::0::1::::<><>::res://starr_kwok.gd<>uid://v3h7y7sshwqe::::res://assets/star.png
+::res://assets/::1728406296
+23-237821_bear-sprite-sheet-sprite-removebg-preview.png::CompressedTexture2D::3518171826415092857::1728406296::1728406319::1::::<><>::
+Backround.jpg::CompressedTexture2D::7841839628838717244::1728406296::1728406319::1::::<><>::
+Block.png::CompressedTexture2D::8563812979143946930::1728406296::1728406319::1::::<><>::
+icon.svg::CompressedTexture2D::1122724655920938028::1728406296::1728406319::1::::<><>::
+star.png::CompressedTexture2D::1532251768703013268::1728406296::1728406319::1::::<><>::
